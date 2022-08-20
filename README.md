@@ -1,10 +1,12 @@
 - <img src="https://komarev.com/ghpvc/?username=malfunctixn">
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/shashank-p-2257741a5/)](https://www.linkedin.com/in/shashank-p-2257741a5/)
 
 
 - Hey, my name is Shashank and I am a Computer Science Engineering from Bangalore, India.
 - I am always interested in learning new things about code and life.
 - Presently, I am working on a project to track employees in an organisation.
-- Incase you want to contact me, [Gmail](mailto:malfunctixn@gmail.com)/[Linkedin](https://www.linkedin.com/in/shashank-p-2257741a5/)
+- Incase you want to contact me, [![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malfunctixn@gmail.com)](mailto:malfunctixn@gmail.com)
+
 
  
 
