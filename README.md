@@ -1,4 +1,4 @@
-- <img src="https://komarev.com/ghpvc/?username=malfunctixn">
+- <img src="https://komarev.com/ghpvc/?username=Only-Bugs">
 
 - Hey, my name is Shashank and I am a MERN Full Stack SDE-1 from Bangalore, India.
 - I am always interested in learning new things about code and life.
@@ -28,7 +28,7 @@
 
 <p align="left">
 <a href="https://github.com/malfunctixn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malfunctixn&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malfunctixn&count_private=true&show_icons=true&title_color=333&icon_color=333">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Only-Bugs&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Only-Bugs&count_private=true&show_icons=true&title_color=333&icon_color=333">
 </a>
 </p>
